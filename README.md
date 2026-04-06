@@ -2,6 +2,12 @@
 
 **I'm a student in Young-Nam University**
 
+## Code skill
+
+**C**
+**JAVA**
+**Python**
+**C++**
 <!--
 **chobhyeon/chobhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
