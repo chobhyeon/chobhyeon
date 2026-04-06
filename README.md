@@ -1,6 +1,6 @@
 ## Hello
 
-**I'm a student in Young-Nam University**
+**I'm a student in Yeung-Nam University**
 
 ## Code skill
 
