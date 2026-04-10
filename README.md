@@ -1,6 +1,8 @@
 ## Welcome to my profile!
 
-**I'm Byeong-Hyeon Cho, a junior in the Department of Computer Engineering at Yeungnam University.**
+😊**I'm Byeong-Hyeon Cho**, a junior in the Department of Computer Engineering at Yeungnam University.
+📚Currently focusing on my studies and learning computer engineering theory.
+📫 How to reach me chobhyeon@gmail.com
 
 ## Code skill
 
