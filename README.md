@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-**Junior in Yeung-Nam University DEPT. Computer Engineering**
+**I'm Byeong-Hyeon Cho, a junior in the Department of Computer Engineering at Yeungnam University.**
 
 ## Code skill
 
@@ -8,6 +8,7 @@
 **JAVA**
 **Python**
 **C++**
+
 <!--
 **chobhyeon/chobhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
