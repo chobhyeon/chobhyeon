@@ -1,6 +1,6 @@
-## Hello
+## Welcome to my profile!
 
-**I'm a student in Yeung-Nam University**
+**Junior in Yeung-Nam University DEPT. Computer Engineering**
 
 ## Code skill
 
